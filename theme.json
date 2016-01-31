@@ -1,0 +1,8 @@
+{
+    "name": "Gift Wishes",
+    "description": "",
+    "author": "Vitaly Semenov",
+    "url": "https://github.com/VitalySemenov/giftwishes-theme/",
+    "type": ["backend"],
+    "autoload": ["start.php"]
+}

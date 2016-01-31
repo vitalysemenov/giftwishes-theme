@@ -1,0 +1,6 @@
+{
+  "production": true,
+  "assetsPath": "assets/",
+  "cssOutput": "assets/css",
+  "jsOutput": "assets/js"
+}
